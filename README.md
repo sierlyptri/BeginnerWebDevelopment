@@ -29,4 +29,4 @@ Mengerjakan tantangan yang mencakup:
 
 
 ## 🚀 Live Demo
-(https://sierlyptri.github.io/BeginnerWebDevelopment/?)
+(https://sierlyptri.github.io/BeginnerWebDevelopment/)
